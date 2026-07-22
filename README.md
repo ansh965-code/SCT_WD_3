@@ -42,8 +42,6 @@ SCT_WD_3/
 
 ---
 
-## 📸 Screenshot
-
 ## 📸 Screenshots
 
 ### Home Page
