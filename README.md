@@ -44,8 +44,8 @@ SCT_WD_3/
 
 ## 📸 Screenshot
 
-(screenshot1.pmg)
-(screenshot2.png)
+(sceenshot1.pmg)
+(Screenshot2.png)
 
 ```markdown
 ![Quiz Game Screenshot](assets/images/screenshot.png)
