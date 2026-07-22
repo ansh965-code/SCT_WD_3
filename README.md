@@ -44,8 +44,15 @@ SCT_WD_3/
 
 ## 📸 Screenshot
 
-(sceenshot1.pmg)
-(Screenshot2.png)
+## 📸 Screenshots
+
+### Home Page
+
+![Home](sceenshot1.png)
+
+### Result Page
+
+![Result](Screenshot2.png)
 
 ```markdown
 ![Quiz Game Screenshot](assets/images/screenshot.png)
