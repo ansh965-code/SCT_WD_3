@@ -54,9 +54,6 @@ SCT_WD_3/
 
 ![Result](Screenshot2.png)
 
-```markdown
-![Quiz Game Screenshot](assets/images/screenshot.png)
-```
 
 ---
 
